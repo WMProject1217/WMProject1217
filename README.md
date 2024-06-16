@@ -12,5 +12,5 @@ world.execute(me.咕咕咕())
 <summary>看到我了吗</summary>
   
 ~~**还不快把star和follow给我交了**~~
-<details><summary>...</summary>我们的故事结束了，从今往后，就是你的故事了......</details>
+<details><summary> </summary>我们的故事结束了，从今往后，就是你的故事了......</details>
 </details>
