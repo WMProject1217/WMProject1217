@@ -18,7 +18,8 @@ world.execute(me.咕咕咕())
 <h3>贡献人员名单</h3>
 %s 是系统工程，离不开各框架与模块的编写，也离不开诸赞助者的支持。<br>
 <h4>赞助者</h4>
-<div align="center">
+<div>
+<div style="display: inline-block;" align="center">
   <a href="https://github.com/Ricardo-L-C">
     <img src="https://github.com/Ricardo-L-C.png?size=100" width="100" height="100" style="border-radius: 50%;">
   </a>
@@ -26,4 +27,5 @@ world.execute(me.咕咕咕())
   <a href="https://github.com/Ricardo-L-C">
     <strong>@Ricardo-L-C</strong>
   </a>
+</div>
 </div>
