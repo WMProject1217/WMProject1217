@@ -15,17 +15,17 @@ world.execute(me.咕咕咕())
 <details><summary> </summary>我们的故事结束了，从今往后，就是你的故事了......</details>
 </details>
 
-<h3>贡献人员名单</h3>
+### 项目贡献者
 %s 是系统工程，离不开各框架与模块的编写，也离不开诸赞助者的支持。<br>
-<h4>赞助者</h4>
-<div>
-<div style="display: inline-block;" align="center">
-  <a href="https://github.com/Ricardo-L-C">
-    <img src="https://github.com/Ricardo-L-C.png?size=100" width="100" height="100" style="border-radius: 50%;">
-  </a>
-  <br>
-  <a href="https://github.com/Ricardo-L-C">
-    <strong>@Ricardo-L-C</strong>
-  </a>
-</div>
-</div>
+
+<h3>赞助</h3>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ricardo-L-C">
+        <img src="https://github.com/Ricardo-L-C.png?size=80" width="80" height="80" style="border-radius: 50%;"><br>
+        <sub><b>@Ricardo-L-C</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
