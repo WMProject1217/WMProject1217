@@ -18,4 +18,4 @@ world.execute(me.咕咕咕())
 <h3>贡献人员名单</h3>
 %s 是系统工程，离不开各框架与模块的编写，也离不开诸赞助者的支持。<br>
 <h4>赞助者</h4>
-@Ricardo-L-C
+[![Ricardo-L-C](https://avatars.githubusercontent.com/u/28146614?v=4)](https://github.com/Ricardo-L-C) [Ricardo-L-C](https://github.com/Ricardo-L-C)
